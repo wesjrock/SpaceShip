@@ -8,6 +8,8 @@ The purpose of this project was to implement a Spaceship game in ICMC Assembly f
 
 HOW TO PLAY
 --------------------------------------------------
+Your spaceship is the 'X' character and the enemy is the 'A' which moves around the screen all the time, you have to try and shoot it.
+
 * W: up
 * S: down
 * A: left
