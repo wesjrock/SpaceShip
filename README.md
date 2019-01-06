@@ -52,3 +52,9 @@ Assembling and Running the Game:
 	
 	3. After opening the simulator window, press HOME key to start.
 ```
+
+CREDITS
+--------------------------------------------------
+- Guilherme Biondo
+- Werik Fachim
+- Wesley Tiozzo
