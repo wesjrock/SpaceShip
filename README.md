@@ -30,15 +30,15 @@ To run the assembler and the simulator you have to install the dependencies bell
 
 Installing the Assembler:
 ```bash
-	1. Extract the Assembler folder.
-	2. Using the terminal, go to the Assembler folder (montador_fonte) and compile it through the command `gcc *.c -o assembler`
+	1. Extract the Assembler folder (montador_fonte).
+	2. Using the terminal, go to the Assembler folder and compile it through the command `gcc *.c -o assembler`
 	3. Copy the assembler executable file to a folder of your preference.
 ```
 
 Installing the Simulator:
 ```bash
-	1. Extract the simulator folder.
-	2. Using the terminal, go to the Simulator folder (simulador_fonte) and compile it through the command `sh compila.sh`
+	1. Extract the simulator folder (simulador_fonte).
+	2. Using the terminal, go to the Simulator folder and compile it through the command `sh compila.sh`
 	3. Copy the simulator executable file to a folder of your preference.
 ```
 
